@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="200" src="https://i.imgur.com/dkB7pWF.jpg"  />
-</div>
+<img align="right" height="200" src="https://i.imgur.com/dkB7pWF.jpg"  />
+
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -56,6 +56,6 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/DincerOgren/DincerOgren/output/snake.svg" alt="Snake animation" />
 
 ###
