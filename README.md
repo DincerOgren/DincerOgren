@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DincerOgren/DincerOgren/output/snake.svg" alt="Snake animation" />
+
 
 ###
