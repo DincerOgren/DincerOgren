@@ -2,12 +2,6 @@
   <img height="200" src="https://i.imgur.com/dkB7pWF.jpg"  />
 </div>
 
-###
-
-<h1 align="center">I'm a game developer</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
