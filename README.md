@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I'm Dinçer and I have a great passion for game development. I have developed many projects on my own and I’m still working on them.<br><br>- 🔭 I'm currently working to improve my game development skills using C# and Unity.<br>- 📚 How to reach me dincer.ogr@hotmail.com<br>- ⚡ You can find all of my projects in https://dincerogren.itch.io/<br>- 📑You can visit my portfolio at https://dincerogr.wordpress.com/</p>
+
+⚡ Check out my previous game projects: itch.io/dincerogren
+<p align="left">I'm Dinçer and I’m passionate about software development, with a focus on building modern web applications using Java, Spring Boot, and frontend technologies. I enjoy learning new tools and frameworks, and love creating both practical and creative projects.<br><br>- 🔭 Currently improving my skills in Java, Spring Boot, and full-stack web development.<br>- 📚 How to reach me dincer.ogren@hotmail.com<br>- ⚡ You can find my old game projects in https://dincerogren.github.io/my-portfolio-site/ <p>
 
 ###
 
